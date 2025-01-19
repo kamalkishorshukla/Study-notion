@@ -1,1 +1,2 @@
-# Study-notion
+# StudyNotion-EdTech-main
+ 
